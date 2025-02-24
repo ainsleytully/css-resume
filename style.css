@@ -1,0 +1,55 @@
+html
+{
+background-image: url("green.png");
+background-size: cover;
+}
+
+
+
+h1 {
+	font-family: "Monoton", serif;
+	color: white;
+	text-align: center;
+	letter-spacing: 12px;
+	font-size: 40px;
+	text-decoration-line: underline;
+	text-decoration-style: wavy;
+	text-decoration-color:#2C98C4;
+	text-decoration-thickness: 2px;
+}
+
+
+h3 {
+	font-family: "Abril Fatface", serif;
+	font-size: 20px;
+	letter-spacing: 3px;
+	color:#096C5A;
+	text-decoration: underline;
+	
+}
+li {
+	font-family: "Lobster Two", serif;
+	font-size: 14px;
+	letter-spacing: 2px;
+	color:#385E69;
+	list-style-position: inside;
+	
+
+	
+}
+
+p {
+	font-family: "Gruppo", serif;
+	font-size: 17px;
+	color:#588287;
+	text-indent: 10px;
+		
+}
+
+a:link, a:visited {color: #056E99;
+  text-decoration: none; }
+  a:hover {text-decoration: underline;
+  	      background-color: blue;
+
+
+
